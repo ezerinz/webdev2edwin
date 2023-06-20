@@ -1,0 +1,24 @@
+.footer {
+  padding: 50px 15px;
+  text-align: center;
+}
+
+.footer__center {
+  margin: 0 auto;
+  width: 28px;
+}
+
+.footer__arrow {
+  border-radius: 50%;
+  border: 3px solid #b9bfc4;
+  color: #74808a;
+  padding-top: 0px;
+  padding-bottom: 3px;
+  padding-right: 3px;
+  padding-left: 3px;
+}
+
+.copyright {
+  color: #74808a;
+}
+
